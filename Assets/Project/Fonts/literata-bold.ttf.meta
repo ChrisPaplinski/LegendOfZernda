@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d15ed4b282ac25344ab1f0992945c470
+timeCreated: 1504978581
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Literata
+  fontNames:
+  - Literata
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 15915db545080964b8bae2568af2585c, type: 3}
+  - {fileID: 12800000, guid: 4f48d459b2c06e94a98b4c6b11e144d6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
